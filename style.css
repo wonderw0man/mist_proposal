@@ -6,7 +6,7 @@
 
 .proposal-card{
     
-    position:fixed;
+    position: absolute;
     left: 25.85%;
     right: 12.94%;
     top: 5.31%;
@@ -35,7 +35,7 @@
 }
 
 .btn-propose{
-    margin-top: 26%;
+    margin-bottom: 5%;
     margin-left: 68.5%;
     background: #1A171D;
     font-weight: 800;
@@ -74,13 +74,7 @@
 .btn-close:hover{
     background: #3C3644;
 }
-@media screen and (max-width: 450px) {
-   
-    button{
-        float:none;
-        display: inline-block;
-    }
-}
+
 @media screen and (max-width: 637px) {
 .btn-complain{
 margin-bottom: 0px;
