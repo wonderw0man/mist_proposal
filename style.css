@@ -7,10 +7,9 @@
 .proposal-card{
     
     position: absolute;
-    left: 25.85%;
-    right: 12.94%;
-    top: 5.31%;
-    bottom: 38.07%;
+    margin: auto;
+    margin-top: 5.31%;
+    height: auto;
     background: #3C3644;
     color: #fff;
 /*     box-shadow: 0px 0px 50px 60px rgba(0, 0, 0, 0.5); */
